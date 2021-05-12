@@ -1,0 +1,39 @@
+/*.actions-list{
+    border-bottom: 1px solid #e3e6f0;
+}
+.actions-list .date-time{
+    font-size: 12px;
+    font-weight: 300;
+}*/
+
+.loading-class{
+margin: auto;
+}
+
+.loading_img{
+width: 32px;
+height: 32px;
+margin: auto;
+}
+
+.graph-filter{
+display: flex;
+}
+
+ul.pagination li {
+    background: #002552;
+    padding: 10px;
+    margin: 0px 5px;
+    border-radius: 5px;
+}
+
+ul.pagination li a{
+	color: white;
+}
+ul.pagination li.active{
+	border: 1px solid #002552;
+	background: #fff;
+}
+ul.pagination li.active a{
+	color: #002552;
+}
